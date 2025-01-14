@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/1. Two sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2. Add Two Numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Longest Substring Without Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Median of Two Sorted Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
