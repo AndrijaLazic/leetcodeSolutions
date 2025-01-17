@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/3. Longest Substring Without Repeating Characters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Median of Two Sorted Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5. Longest Palindromic Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Longest Palindromic Substring optimal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88. Merge Sorted Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
