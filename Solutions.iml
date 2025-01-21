@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/5. Longest Palindromic Substring optimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/88. Merge Sorted Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/169. Majority Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189. Rotate Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/26. Remove Duplicates from Sorted Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/80. Remove Duplicates from Sorted Array II" isTestSource="false" />
     </content>
