@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/80. Remove Duplicates from Sorted Array II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122. Best Time to Buy and Sell Stock II" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/55. Jump Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/209. Minimum Size Subarray Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
