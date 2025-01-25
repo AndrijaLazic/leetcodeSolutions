@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/55. Jump Game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/209. Minimum Size Subarray Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/392. Is Subsequence" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
