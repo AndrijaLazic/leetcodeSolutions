@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/125. Valid Palindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/167. Two Sum II - Input Array Is Sorted" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/392. Is Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/45. Jump Game II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
